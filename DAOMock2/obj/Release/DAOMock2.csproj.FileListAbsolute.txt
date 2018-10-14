@@ -1,0 +1,22 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\bin\Release\DAOMock2.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\bin\Release\DAOMock2.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\bin\Release\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\bin\Release\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\bin\Release\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\bin\Release\Interfaces.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\obj\Release\DAOMock2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\obj\Release\DAOMock2.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\obj\Release\DAOMock2.csproj.CopyComplete
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\obj\Release\DAOMock2.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock2\obj\Release\DAOMock2.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\bin\Release\DAOMock2.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\bin\Release\DAOMock2.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\bin\Release\Core.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\bin\Release\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\bin\Release\Core.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\bin\Release\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\obj\Release\DAOMock2.csprojResolveAssemblyReference.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\obj\Release\DAOMock2.csproj.CoreCompileInputs.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\obj\Release\DAOMock2.csproj.CopyComplete
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\obj\Release\DAOMock2.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock2\obj\Release\DAOMock2.pdb

@@ -1,0 +1,33 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\BLC.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\BLC.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\Interfaces.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.csproj.CopyComplete
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Release\BLC.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Release\BLC.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Release\Interfaces.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Release\Core.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Release\Interfaces.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Release\Core.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.csprojAssemblyReference.cache
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.csproj.CopyComplete
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Release\BLC.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Release\BLC.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Release\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Release\Core.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Release\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Release\Core.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.csprojResolveAssemblyReference.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.csproj.CoreCompileInputs.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.csproj.CopyComplete
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Release\BLC.pdb

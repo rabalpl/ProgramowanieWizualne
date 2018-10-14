@@ -1,0 +1,33 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Debug\DAOMock.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Debug\DAOMock.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Debug\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Debug\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Debug\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Debug\Interfaces.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Debug\DAOMock.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Debug\DAOMock.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Debug\DAOMock.csproj.CopyComplete
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Debug\DAOMock.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Debug\DAOMock.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\DAOMock.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\DAOMock.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\Core.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\Interfaces.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\Core.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\Interfaces.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.csprojAssemblyReference.cache
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.csproj.CopyComplete
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\DAOMock.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\DAOMock.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\Core.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\Core.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\bin\Debug\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.csprojResolveAssemblyReference.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.csproj.CoreCompileInputs.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.csproj.CopyComplete
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\DAOMock\obj\Debug\DAOMock.pdb

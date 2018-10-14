@@ -1,0 +1,36 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\bin\Debug\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\bin\Debug\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\bin\Debug\Core.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\bin\Debug\Core.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\bin\Debug\Core.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\bin\Debug\Core.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\bin\Debug\Core.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\bin\Debug\Core.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\Interfaces\obj\Debug\Interfaces.pdb

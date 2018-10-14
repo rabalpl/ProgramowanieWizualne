@@ -1,0 +1,48 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\BLC.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\BLC.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\DAOMock.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\DAOMock2.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\DAOMock2.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\DAOMock.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\Interfaces.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Debug\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Debug\BLC.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Debug\BLC.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Debug\BLC.csproj.CopyComplete
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Debug\BLC.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Debug\BLC.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\bin\Debug\BLC.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\bin\Debug\BLC.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\bin\Debug\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\bin\Debug\Core.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\bin\Debug\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\bin\Debug\Core.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\obj\Debug\BLC.csprojResolveAssemblyReference.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\obj\Debug\BLC.csproj.CoreCompileInputs.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\obj\Debug\BLC.csproj.CopyComplete
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\obj\Debug\BLC.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master\BLC\obj\Debug\BLC.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Debug\BLC.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Debug\BLC.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Debug\Interfaces.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Debug\Core.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Debug\Interfaces.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\bin\Debug\Core.pdb
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.csprojResolveAssemblyReference.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.csproj.CoreCompileInputs.cache
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.csproj.CopyComplete
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.dll
+C:\Users\rabal\Downloads\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Debug\BLC.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Debug\BLC.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Debug\Interfaces.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Debug\Core.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Debug\Interfaces.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\bin\Debug\Core.pdb
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.csprojAssemblyReference.cache
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.csproj.CopyComplete
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.dll
+C:\Users\pogod\Downloads\PW\ProgramowanieWizualne-master-m\BLC\obj\Debug\BLC.pdb
